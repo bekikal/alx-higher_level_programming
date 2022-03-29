@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 ''' lists all states from the database hbtn_0e_0_usa '''
+'''<mysql username>'''
+'''Usage: ./0-select_states.py <mysql password>'''
 
 import MySQLdb
 from sys import argv
