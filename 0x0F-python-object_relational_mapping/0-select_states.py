@@ -18,4 +18,3 @@ if __name__ == '__main__':
     for row in cur.fetchall():
         print(row)
     db.close()
-    
